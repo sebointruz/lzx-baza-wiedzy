@@ -1,7 +1,7 @@
 @font-face {
   font-family: "eicons";
-  src: url("https://lzx.pl/baza-wiedzy/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_47_0");
-  src: url("https://lzx.pl/baza-wiedzy/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_47_0#iefix") format("embedded-opentype"), url("https://lzx.pl/baza-wiedzy/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_47_0") format("woff2"), url("https://lzx.pl/baza-wiedzy/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_47_0") format("woff"), url("https://lzx.pl/baza-wiedzy/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_47_0") format("truetype"), url("https://lzx.pl/baza-wiedzy/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_47_0#eicon") format("svg");
+  src: url("https://lzx.pl/baza-wiedzy/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_54_0");
+  src: url("https://lzx.pl/baza-wiedzy/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_54_0#iefix") format("embedded-opentype"), url("https://lzx.pl/baza-wiedzy/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_54_0") format("woff2"), url("https://lzx.pl/baza-wiedzy/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_54_0") format("woff"), url("https://lzx.pl/baza-wiedzy/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_54_0") format("truetype"), url("https://lzx.pl/baza-wiedzy/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_54_0#eicon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -2025,6 +2025,66 @@
 
 .eicon-atomic-text-area:before {
   content: "\e9f2";
+}
+
+.eicon-atomic-select:before {
+  content: "\e9f3";
+}
+
+.eicon-atomic-checkbox:before {
+  content: "\e9f4";
+}
+
+.eicon-atomic-radiobutton:before {
+  content: "\e9f5";
+}
+
+.eicon-atomic-file-upload:before {
+  content: "\ebe9";
+}
+
+.eicon-atomic-time-picker:before {
+  content: "\ebea";
+}
+
+.eicon-atomic-date-picker:before {
+  content: "\ebeb";
+}
+
+.eicon-upgrade-crown-full:before {
+  content: "\ef03";
+}
+
+.eicon-after:before {
+  content: "\ebfa";
+}
+
+.eicon-pagination-item:before {
+  content: "\ebfb";
+}
+
+.eicon-before:before {
+  content: "\ebfc";
+}
+
+.eicon-pagination:before {
+  content: "\ebfd";
+}
+
+.eicon-loop-item:before {
+  content: "\ec00";
+}
+
+.eicon-loop-widget:before {
+  content: "\ec01";
+}
+
+.eicon-x-twitter:before {
+  content: "\ef04";
+}
+
+.eicon-background-video:before {
+  content: "\ea01";
 }
 
 .eicon-eye:before {
